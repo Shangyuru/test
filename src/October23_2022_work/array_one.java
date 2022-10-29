@@ -1,5 +1,11 @@
 package October23_2022_work;
-
+/**
+*@ClassName: array_one
+*@Description:
+*@Author: ShangYuru
+*Date: 2022/10/26
+*@Time: 20:22
+*/
 import java.util.Random;
 
 public class array_one {
