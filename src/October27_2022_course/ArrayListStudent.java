@@ -1,5 +1,11 @@
 package October27_2022_course;
-
+/**
+*@ClassName: ArrayListStudent
+*@Description: 学生类
+*@Author: ShangYuru
+*@Date: 2022/10/29
+*@Time: 11:41
+*/
 public class  ArrayListStudent{
     private String studentId;
     private  String name;

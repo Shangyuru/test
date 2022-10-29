@@ -1,5 +1,11 @@
 package October27_2022_course;
-
+/**
+*@ClassName: ArrayListMovie
+*@Description: 电影类
+*@Author: ShangYuru
+*@Date: 2022/10/29
+*@Time: 11:41
+*/
 public class ArrayListMovie {
     private String name;
     private Double score;

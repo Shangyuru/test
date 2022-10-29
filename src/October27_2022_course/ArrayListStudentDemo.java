@@ -1,6 +1,12 @@
 package October27_2022_course;
 
-import java.util.Locale;
+/**
+*@ClassName: ArrayListStudentDemo
+*@Description: 学生测试类
+*@Author: ShangYuru
+*@Date: 2022/10/29
+*@Time: 11:42
+*/
 import java.util.Scanner;
 import java.util.ArrayList;
 

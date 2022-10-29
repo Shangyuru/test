@@ -1,5 +1,11 @@
 package October27_2022_course;
-
+/**
+*@ClassName: ArrayListMovieDemo
+*@Description: 电影测试类
+*@Author: ShangYuru
+*@Date: 2022/10/29
+*@Time: 11:41
+*/
 import java.util.ArrayList;
 
 public class ArrayListMovieDemo {

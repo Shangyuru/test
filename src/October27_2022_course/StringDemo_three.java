@@ -1,5 +1,11 @@
 package October27_2022_course;
-
+/**
+*@ClassName: StringDemo_three
+*@Description: 用户系统
+*@Author: ShangYuru
+*@Date: 2022/10/29
+*@Time: 11:43
+*/
 import java.util.Scanner;
 
 public class StringDemo_three {
